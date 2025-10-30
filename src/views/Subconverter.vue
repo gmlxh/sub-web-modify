@@ -338,7 +338,7 @@ export default {
           "suo.yt": "https://suo.yt/short",
         },
         customBackend: {
-          "自用专属后端 ": "https://subapi.lianghuigu.com",
+          "自用专属后端": "https://subapi.lianghuigu.com",
           "CM负载均衡后端【vless reality+hy1+hy2】": "https://subapi.cmliussss.net",
           "CM应急备用后端【vless reality+hy1+hy2】": "https://subapi.fxxk.dedyn.io",
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://url.v1.mk",
@@ -393,6 +393,10 @@ export default {
           {
             label: "通用",
             options: [
+              {
+                label: "无策略入门推荐",
+                value: "https://raw.nameless13.com/api/public/dl/zKF9vFbb/easy.ini"
+              },
               {
                 label: "默认",
                 value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
@@ -575,10 +579,6 @@ export default {
               {
                 label: "多策略增加SMTP策略",
                 value: "https://raw.nameless13.com/api/public/dl/L_-vxO7I/youtube.ini"
-              },
-              {
-                label: "无策略入门推荐",
-                value: "https://raw.nameless13.com/api/public/dl/zKF9vFbb/easy.ini"
               },
               {
                 label: "无策略入门推荐国家分组",
@@ -1315,4 +1315,5 @@ export default {
   }
 };
 </script>
+
 
