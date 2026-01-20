@@ -364,8 +364,10 @@ export default {
               {
               label: "自用规则，随时更新",
               value: "https://raw.githubusercontent.com/gmlxh/ACL4SSR/blob/main/ACL4SSR_Online_Full_Mannix.ini"
-            }
-                    ],
+              }
+            ]
+          },
+          {
             label: "CM规则",
             options: [
               {
@@ -1319,4 +1321,5 @@ export default {
   }
 };
 </script>
+
 
