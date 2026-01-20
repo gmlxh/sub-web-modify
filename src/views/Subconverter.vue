@@ -363,7 +363,7 @@ export default {
             options:[
               {
               label: "自用规则，随时更新",
-              value: " https://raw.githubusercontent.com/gmlxh/ACL4SSR_LIST/main/Config/Default.ini"
+              value: "https://raw.githubusercontent.com/gmlxh/ACL4SSR_LIST/main/Config/Default.ini"
               }
             ]
           },
@@ -1321,6 +1321,7 @@ export default {
   }
 };
 </script>
+
 
 
 
